@@ -19,8 +19,6 @@ With the token in hand, you can start developing your bot.
 
 ## Message
 
-Command:when users input //<Command>
-
 Message_type:text,video,location,photo...
 
 ```js
