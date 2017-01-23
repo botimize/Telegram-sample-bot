@@ -3,8 +3,9 @@ This sample-bot uses [Telegraf](https://github.com/telegraf/telegraf) framework
 
 ## Documentation
 
-[Telegram Bot API](https://core.telegram.org/bots/api)
-[Telegraf developer docs](http://telegraf.js.org)
+-[Telegram Bot API](https://core.telegram.org/bots/api)
+
+-[Telegraf developer docs](http://telegraf.js.org)
 
 ## Telegram token
 
