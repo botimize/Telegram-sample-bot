@@ -1,3 +1,19 @@
+/*
+ * This is a sample Telegram bot.
+ *
+ * # RUN THIS BOT:
+ *
+ *   1. Run from command line:
+ *
+ *    BOT_TOKEN=<YOUR_BOT_TOKEN> node sampleBot.js
+ *
+ *
+ * # This sample is modified from https://github.com/telegraf/telegraf/tree/develop/examples
+ *
+ */
+
+
+
 const Telegraf = require('telegraf')
 const { Extra, Markup } = require('telegraf')
 const app = new Telegraf(process.env.BOT_TOKEN)
