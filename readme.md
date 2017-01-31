@@ -51,3 +51,14 @@ app.on('sticker', (ctx) => ctx.reply('👍'))
 app.startPolling()
 ```
 
+-Command
+
+![command](pic/command.png)
+
+-Text
+
+![text](pic/text.png)
+
+-In-line mode
+
+![inline](pic/inline.png)
