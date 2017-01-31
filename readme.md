@@ -53,12 +53,12 @@ app.startPolling()
 
 -Command
 
-![command](pic/command.png)
+![command](pic/Command.png)
 
 -Text
 
-![text](pic/text.png)
+![text](pic/Text.png)
 
 -In-line mode
 
-![inline](pic/inline.png)
+![inline](pic/Inline.png)
